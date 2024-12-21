@@ -1,0 +1,4 @@
+{"hey":"hello"}
+{"arr":["Aniket"],"hey":"hello"}
+{"arr":["Aniket","\"Golang\""],"hey":"hello"}
+{"arr":["Aniket","\"Golang\""],"hey":"hello","obj":{"languages":["Golang","Javascript","Python"],"name":"Aniket"}}
